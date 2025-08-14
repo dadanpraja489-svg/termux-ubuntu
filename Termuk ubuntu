@@ -1,0 +1,2 @@
+pkg install wget proot
+https://raw.githubusercontent.com/Neo-Oli/termux-ubuntu/master/ubuntu.sh
